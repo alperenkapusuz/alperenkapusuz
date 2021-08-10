@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alperen Kapusuz</h1>
+<h3 align="center">Hi 👋, I'm Alperen Kapusuz</h3>
 
 <h3 align="left">About me</h3>
 
 - 🌱 I’m currently learning **React and NodeJS**
 - 📫 How to reach me **sefalperen21@gmail.com**
 - 💻 I'm currently studying **computer engineering**
-- ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern a
+- ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern at
 
 <h3 align="left">⚙️  GitHub Analytics</h3>
 
