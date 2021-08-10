@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alperen Kapusuz</h1>
 <h3 align="center">ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern at</h3>
 
-⚙️  GitHub Analytics
+<h3 align="left">⚙️  GitHub Analytics</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **React and NodeJS**
