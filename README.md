@@ -9,8 +9,8 @@
 
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz&show_icons=true&theme=cobalt)](https://github.com/alperenkapusuz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/alperenkapusuz/)
 
 
 <h4 align="left">🛠  Languages and Tools:</h4>
