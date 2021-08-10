@@ -7,6 +7,7 @@
 - ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern a
 
 <h3 align="left">⚙️  GitHub Analytics</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
