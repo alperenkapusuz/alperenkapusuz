@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React and NodeJS**
 - 📫 How to reach me **sefalperen21@gmail.com**
 - 💻 I'm currently studying **computer engineering**
-- ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern at
+- 🏢 ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern at
 
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
