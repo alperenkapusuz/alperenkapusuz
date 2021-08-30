@@ -2,7 +2,7 @@
 
 <h4 align="left">About me</h4>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and C#**
 - 📫 How to reach me **sefalperen21@gmail.com**
 - 💻 I'm currently studying **computer engineering**
 - 🏢 ase Yazılım ve Bilişim Çözümleri San. Trade Ltd. St. intern at
