@@ -14,7 +14,7 @@
 
 
 <h4 align="left">🛠  Languages and Tools:</h4>
-<img src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white">
 
 
 <h4 align="left">📫  Connect with me:</h4>
