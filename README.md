@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React - Spring**
 - 📫 How to reach me **sefalperen21@gmail.com**
 - 💻 I'm currently studying **computer engineering**
-- 🏢 Seracell - Intern
+- 🏢 MyDos - Intern
 
 <h4 align="left">🛠  Languages and Tools:</h4>
 
