@@ -2,7 +2,7 @@
 
 <h4 align="left">About me</h4>
 
-- 🌱 I’m currently learning **React - Spring**
+- 🌱 I’m currently learning **React - React Native - Spring**
 - 🌱 I’m currently learning **Networking**
 - 📫 How to reach me **sefalperen21@gmail.com**
 - 💻 I'm currently studying **computer engineering**
