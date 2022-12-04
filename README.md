@@ -17,8 +17,7 @@
 
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkapusuz&layout=compact&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenkapusuz&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkapusuz&layout=compact&theme=cobalt)
 
 
 <h4 align="left">📫  Connect with me:</h4>
