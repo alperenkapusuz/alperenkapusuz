@@ -13,7 +13,3 @@
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkapusuz&layout=compact&theme=cobalt)
-
-<h4 align="left">📫  Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/alperen-kapusuz-a72a381a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-gener
