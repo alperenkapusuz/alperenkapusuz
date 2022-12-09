@@ -7,9 +7,7 @@
 
 <h4 align="left">🛠  Languages and Tools:</h4>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=blue">
-<img src="https://img.shields.io/badge/React%20Native-lightblue?style=for-the-badge&logo=react&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=blue"><img src="https://img.shields.io/badge/React%20Native-lightblue?style=for-the-badge&logo=react&logoColor=blue">
 
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
