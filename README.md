@@ -7,7 +7,8 @@
 
 <h4 align="left">🛠  Languages and Tools:</h4>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=blue"><img src="https://img.shields.io/badge/React%20Native-lightblue?style=for-the-badge&logo=react&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=blue">
+<img src="https://img.shields.io/badge/React%20Native-lightblue?style=for-the-badge&logo=react&logoColor=blue">
 
 <h4 align="left">⚙️  GitHub Analytics</h4>
 
@@ -15,6 +16,4 @@
 
 <h4 align="left">📫  Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/alperen-kapusuz-a72a381a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-kapusuz-a72a381a5" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15199653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15199653" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/alperen-kapusuz-a72a381a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-gener
